@@ -1,4 +1,6 @@
 
+Train a neural neural network using deep [Q learning](https://fr.wikipedia.org/wiki/Q-learning).
+
 ## Before training 
 ![alt text](https://github.com/keyliin0/deep-reinforcement-learning-lunar-lander/blob/master/demo1.gif?raw=true)
 
@@ -11,7 +13,6 @@ The mean for the last 100 episodes
 ![alt text](https://raw.githubusercontent.com/keyliin0/deep-reinforcement-learning-lunar-lander/master/score.jpg)
 
 
-Train a neural neural network using deep [Q learning](https://fr.wikipedia.org/wiki/Q-learning).
 
 ## The model
 
