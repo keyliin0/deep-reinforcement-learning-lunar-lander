@@ -27,7 +27,7 @@ The output layer contains 4 (Q value for each action) neurons
 python train.py
 ```
 
-### train the model
+### test the model
 
 Change my_model_1900.hdf5 to your model file name in test.py then run
 
