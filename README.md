@@ -1,5 +1,5 @@
 
-Train a neural network using deep [Q learning](https://en.wikipedia.org/wiki/Q-learning).
+Training a neural network using deep [Q learning](https://en.wikipedia.org/wiki/Q-learning).
 
 ## Before training 
 ![alt text](https://github.com/keyliin0/deep-reinforcement-learning-lunar-lander/blob/master/demo1.gif?raw=true)
